@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'gmarket-b';
+  src: url(../fonts/gmarket-b.otf) format('otf'),
+      url(../fonts/gmarket-b.woff) format('woff'),
+      url(../fonts/gmarket-b.ttf) format('ttf');
+}
